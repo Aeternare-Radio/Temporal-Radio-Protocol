@@ -271,9 +271,9 @@ A complete reference implementation is available demonstrating TRP's core functi
 ---
 
 **Version**: 1.0  
-**Date**: 2024  
+**Date**: 2025 
 **Authors**: ÆTERNARE Radio Development Team  
-**License**: [To be determined - consider open standard licensing]
+**License**: Proprietary
 
 ## Appendix A: Mathematical Proof of Synchronization
 
